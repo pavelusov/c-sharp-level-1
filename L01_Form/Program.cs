@@ -6,6 +6,7 @@
 /*
  * 1. Write programm: "Form"
  * 2. Calculate Mass Body Index
+ * 3. Calculate distance between 2 points
  */
 #endregion
 
